@@ -1,0 +1,5 @@
+{
+  "name": "Orbit Project Tracker",
+  "description": "A modern, dark-themed project management tool featuring real-time progress tracking, persistent storage, and AI-powered task generation.",
+  "requestFramePermissions": []
+}
